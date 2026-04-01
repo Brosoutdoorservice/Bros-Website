@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bro's Outdoor Services</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="nav">
+  <img src="logo.png" class="logo">
+  <div class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="booking.html" class="btn">Book Now</a>
+    <a href="contact.html">Contact</a>
+    <a href="socials.html">Socials</a>
+  </div>
+</header>
+
+<section class="hero">
+  <h1>Clean Yards. Fresh Bins. Zero Stress.</h1>
+  <p>Serving Bristol, CT with reliable outdoor services</p>
+  <a href="booking.html" class="cta">Book a Service</a>
+</section>
+
+<section class="services">
+  <h2>Our Services</h2>
+
+  <div class="grid">
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1598514982841-7c7d8b3df3e1">
+      <h3>Yard Mowing</h3>
+    </div>
+
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c">
+      <h3>Trash Bin Cleaning</h3>
+    </div>
+
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1597007066704-67bf2068d5b2">
+      <h3>Weed Trimming</h3>
+    </div>
+
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1581578731548-c64695cc6952">
+      <h3>Junk Removal</h3>
+    </div>
+
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1560185127-6ed189bf02f4">
+      <h3>Pool Cleaning</h3>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <h2>Ready to clean up your property?</h2>
+  <a href="booking.html" class="cta">Schedule Now</a>
+</section>
+
+<footer>
+  <p>Bristol, CT | brosoutdoorservice@gmail.com</p>
+</footer>
+
+</body>
+</html>

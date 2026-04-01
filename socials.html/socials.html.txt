@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Socials</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Follow Us</h1>
+
+<p><a href="https://www.instagram.com/brosoutdoorservice?igsh=dHh0MWd5dWR2ZXJ2">Instagram</a></p>
+
+<p><a href="https://www.tiktok.com/@bros.outdoor.serv?_r=1&_t=ZP-95AHs3ffsp4">TikTok</a></p>
+
+<p>Facebook coming soon...</p>
+
+</body>
+</html>
